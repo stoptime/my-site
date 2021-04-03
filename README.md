@@ -1,5 +1,7 @@
 # MattMayes.com
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/91703dbe-507a-4101-9966-101bb2e4a8c8/deploy-status)](https://app.netlify.com/sites/gallant-hoover-9f677d/deploys)
+
 <img align="center" src="img/colorful-home.png">
 
 My personal site, which can change without notice. If you are looking for the previous Hugo-based blog, it is [here](https://github.com/stoptime/mattmayes-hugo).
