@@ -2,7 +2,7 @@
 
 <img align="center" src="img/colorful-home.png">
 
-My personal site, which can change without notice. If you are looking for the previous Hugo-based blog, it is [here].(https://github.com/stoptime/mattmayes-hugo)
+My personal site, which can change without notice. If you are looking for the previous Hugo-based blog, it is [here](https://github.com/stoptime/mattmayes-hugo).
 
 I work in the web realm - currently all backend stuff.
 
